@@ -31,7 +31,7 @@ You can donwload the Khouja's dataset from [Github](https://github.com/latynt/an
 Cooming soon
 ## Cite Us
 ```
-@inproceedings{Nagoudi-etal-2020-fake,
+@inproceedings{Nagoudi-2020-fake,
     title ={{Machine Generation and Detection of Arabic Manipulated and Fake News}},
     author = {Nagoudi, El Moatez Billah and Elmadany, AbdelRahim and Abdul-Mageed, Muhammad and Alhindi, Tariq and Cavusoglu, Hasan},
     booktitle ={{P}roceedings of the {F}ourth {A}rabic {N}atural {L}anguage {P}rocessing {W}orkshop}},
