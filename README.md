@@ -17,13 +17,12 @@ Arabic Treebank (ATB) which are a collection of Arabic news stories built as par
 In order to study misinformation/disinformation in Arabic news, we develop, **AraNews**, a large-scale, multi-topic, and  multi-country Arabic news dataset. To create the dataset, we start by manually creating a list of 50 newspapers belonging to 15 Arab countries, the United States of America (USA), and the United Kingdom (UK). Then, we  scrape the news articles from this list of newspapers. Ultimately, we collected a total of  5,187,957 news articles.
 
 #### Donwload AraNews:
-
-  - [ArNews_train_GW_order_0.tar.gz](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ArNews_train_GW_order_0.tar.gz)
-  - [ArNews_dev_GW_order_0.tar.gz](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ArNews_dev_GW_order_0.tar.gz)
-  - [ArNews_test_GW_order_0.tar.gz](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ArNews_test_GW_order_0.tar.gz)
-  - [ZeroShot_train_ArNews_2X.rar](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ZeroShot_train_ArNews_2X.rar)
-  - [ZeroShot_train_ArNews_5X.part01.rar](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ZeroShot_train_ArNews_5X.part01.rar)
-  - [ZeroShot_train_ArNews_5X.part02.rar](https://github.com/MachineGenration/machine_genration_WANLP2020/blob/master/ZeroShot_train_ArNews_5X.part02.rar)
+  - [ArNews_train_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_train_GW_order_0.tar.gz)
+  - [ArNews_dev_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_dev_GW_order_0.tar.gz)
+  - [ArNews_test_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_test_GW_order_0.tar.gz)
+  - [ZeroShot_train_ArNews_2X.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_2X.rar)
+  - [ZeroShot_train_ArNews_5X.part01.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_5X.part01.rar)
+  - [ZeroShot_train_ArNews_5X.part02.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_5X.part02.rar)
   
 ### ANS: Arabic News Stance Corpus 
 You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
@@ -31,3 +30,12 @@ You can donwload the Khouja's dataset from [Github](https://github.com/latynt/an
 ## Models
 Cooming soon
 ## Cite Us
+```
+@inproceedings{mageed-etal-2020-nadi,
+    title ={{Machine Generation and Detection of Arabic Manipulated and Fake News}},
+    author = {Nagoudi, El Moatez Billah and Elmadany, AbdelRahim and Abdul-Mageed, Muhammad and Alhindi, Tariq and Cavusoglu, Hasan},
+    booktitle ={{P}roceedings of the {F}ourth {A}rabic {N}atural {L}anguage {P}rocessing {W}orkshop}},
+    year = {2020},
+    address = {Barcelona, Spain}
+}
+```
