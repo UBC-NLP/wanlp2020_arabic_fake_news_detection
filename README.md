@@ -28,7 +28,7 @@ In order to study misinformation/disinformation in Arabic news, we develop, **Ar
 You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
 
 ## Models
-Cooming soon
+Coming soon
 ## Cite Us
 ```
 @inproceedings{nagoudi-2020-fake,
