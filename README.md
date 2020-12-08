@@ -17,12 +17,8 @@ Arabic Treebank (ATB) which are a collection of Arabic news stories built as par
 In order to study misinformation/disinformation in Arabic news, we develop, **AraNews**, a large-scale, multi-topic, and  multi-country Arabic news dataset. To create the dataset, we start by manually creating a list of 50 newspapers belonging to 15 Arab countries, the United States of America (USA), and the United Kingdom (UK). Then, we  scrape the news articles from this list of newspapers. Ultimately, we collected a total of  5,187,957 news articles.
 
 #### Donwload AraNews:
-  - [ArNews_train_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_train_GW_order_0.tar.gz)
-  - [ArNews_dev_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_dev_GW_order_0.tar.gz)
-  - [ArNews_test_GW_order_0.tar.gz](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ArNews_test_GW_order_0.tar.gz)
-  - [ZeroShot_train_ArNews_2X.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_2X.rar)
-  - [ZeroShot_train_ArNews_5X.part01.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_5X.part01.rar)
-  - [ZeroShot_train_ArNews_5X.part02.rar](https://github.com/UBC-NLP/Arabic_Fake_News_Detection/blob/main/ZeroShot_train_ArNews_5X.part02.rar)
+  - [Registration Form for Arabic News and Machine Manipulated News Datasets](https://forms.gle/bxpNjr5VpxzHxoEWA) 
+
   
 ### ANS: Arabic News Stance Corpus 
 You can donwload the Khouja's dataset from [Github](https://github.com/latynt/ans)
